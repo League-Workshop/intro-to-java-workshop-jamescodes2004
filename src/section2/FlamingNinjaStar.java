@@ -10,9 +10,10 @@ public class FlamingNinjaStar {
 		int flameSize = 200;		//the length of the flaming arms
 		
 		// 1. Make a new robot, and set it's pen down.
-
-		// *14. Use the methods setX and setY to move the ninja star into the center of the screen
-		
+Robot walle=new Robot();
+walle.penDown();
+// *14. Use the methods setX and setY to move the ninja star into the center of the screen
+		walle
 		// *15. Make some adjustments to see what other kinds of shapes you can make.
 
 		// 12. Set the robot speed to 100
